@@ -17,6 +17,3 @@ for (contador = 0; contador < listaDeTeclas.length; contador++) {
     };
 
 }
-listaDeTeclas[1].onclick = TocaSomClap;
-listaDeTeclas[2].onclick = TocasomTim;
-listaDeTeclas[2].onclick = TocaSomPuff;
